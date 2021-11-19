@@ -21,4 +21,7 @@ html {
     background-blend-mode: lighten;
     
 }
+nav  {
+   z-index: 2;
+}
 
