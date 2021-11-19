@@ -16,7 +16,7 @@ html {
   scroll-behavior: smooth;
 }
 .opbg{
-    background-image: url(img/installation.jpg);
+    background-image: url(img/contact.jpg);
     background-color: rgba(255,255,255,0.7);
     background-blend-mode: lighten;
     
