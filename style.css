@@ -24,7 +24,7 @@ html {
 nav  {
    z-index: 2;
 }
-  #bottom {
+  bottom {
                 position:absolute;                 
                 bottom:1;                         
                 left:0;                         
