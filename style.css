@@ -6,7 +6,7 @@ font-family: 'Urbanist', sans-serif;
 
 .parallax{
 /* Create the parallax scrolling effect */
-  
+  background-attachment: local;
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: cover;
